@@ -1,8 +1,10 @@
 # CalPI
-Calculation of PI
+Calculation PI
 
 多线程计算圆周率
 
 基于圆周率计算公式：
 
-π = (4/1) - (4/3) + (4/5) - (4/7) + (4/9) - (4/11) + (4/13) - (4/15) ... 
+\\(\dfrac14\pi = \dfrac 11 - \dfrac 13 + \dfrac 15 - \dfrac 17 + \dfrac 19 - \dfrac 1{11} +\cdots\\)
+
+\\(\pi = 4\sum\limits_{i=0}^\infty\dfrac{(-1)^i}{2i+1}\\)
